@@ -2,6 +2,7 @@
   <div class="intro">
     <h3 class="name">-- Sustainable</h3>
     <h1>Organic Composer</h1>
+    <iframe class="video" width="400" height="300" src="https://www.youtube.com/embed/3SNM_QkEvvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
   <div class="space">
     <img class="home-img" src="nature.svg" alt="dawn" />
@@ -17,8 +18,9 @@
 
   .intro {
     padding: 90px;
+    padding-top: 0px;
     padding-right: 10px;
-    margin-top: 50px;
+    margin-top: 0px;
     flex: 1;
   }
 
@@ -36,6 +38,12 @@
   .home-img {
    max-width: 100%;
    
+  }
+
+  .video {
+    margin-top: 70px;
+    border: 1px solid black;
+    border-radius:10%;
   }
 
   .transition {
