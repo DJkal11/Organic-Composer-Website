@@ -5,16 +5,16 @@
 
 <div class="Contact-me transition">
   <div class="Contact">
-    <h3 class="title">-- Contact Me</h3>
+    <h3 class="title">-- Contact Us</h3>
     <h1>
       Lets work together.
     </h1>
-    <a href="mailto:luciankallee@gmail.com" class="contact-btn">Let's Talk</a>
-    <h3 class="social-item"><i class="fab fa-linkedin"></i> <a class="social-link" href="https://www.linkedin.com/in/lucian-kallee-24893519a"> Lucian Kallee</a></h3>
-    <h3 class="social-item"><i class="fab fa-github-square"></i> <a class="social-link" href="https://github.com/DJkal11"> DJkal11</a></h3>
+    <h3 class="social-item"><i class="fas fa-envelope"></i> <a class="social-link" href="mailto:joashgovindsamy@gmail.com"> joashgovindsamy@gmail.com</a></h3>
+    <h3 class="social-item"><i class="fas fa-envelope"></i> <a class="social-link" href="mailto:kalleerowan43@gmail.com"> kalleerowan43@gmail.com</a></h3>
+    <h3 class="social-item"><i class="fas fa-envelope"></i> <a class="social-link" href="mailto:luciankallee@gmail.com"> luciankallee@gmail.com</a></h3>
   </div>
   <div class="coding">
-    <img class="contact-img" src="re-launch space.svg" alt="dawn" />
+    <img class="contact-img" src="contact.svg" alt="dawn" />
   </div>
  
 </div>
@@ -35,10 +35,11 @@
 
   .coding {
     flex: 1;
+    padding: 50px;
   }
 
   .title {
-    color: #00adb5;
+    color: #00b56a;
     margin: 0px;
   }
 

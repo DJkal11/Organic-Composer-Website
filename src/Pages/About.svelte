@@ -1,22 +1,22 @@
 <script>
 </script>
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+
 
 
 <div class="About-me transition">
   <div class="About">
-    <h3 class="title">-- About Me</h3>
-    <h1>
-      I enjoy making applications and learning new skills in the tech industry.
-    </h1>
-    <i class="fab fa-js-square"></i>
-    <i class="fab fa-node"></i>
-    <i class="fab fa-css3-alt"></i>
-    <i class="fab fa-bootstrap"></i>
-    <i class="fab fa-react"></i>
+    <h3 class="title">-- About the innovation</h3>
+    <h2>
+      Organic Composer is a software application designed to help people reduce their food
+      waste by turning it into a resource of value. It provides personalized trusted solutions to
+      help the customer. Providing them easy access to the correct knowledge and management
+      skills needed to reduce their food waste. We believe that our innovative solution can reduce
+      the local and global food waste problem.
+    </h2>
+   
   </div> 
   <div class="coding">
-    <img class="about-img" src="coding.svg" alt="dawn" />
+    <img class="about-img" src="mobile-nature.svg" alt="dawn" />
   </div>
 </div>
 
@@ -48,12 +48,9 @@
   }
 
   .title {
-    color: #00adb5;
+    color: #00b56a;
   }
   
-  .fab {
-    font-size: 5rem;
-  }
 
   .transition {
     animation-name: fadeInUp;

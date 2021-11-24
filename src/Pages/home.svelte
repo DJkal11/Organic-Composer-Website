@@ -1,10 +1,10 @@
 <div class="display-intro transition">
   <div class="intro">
-    <h3 class="name">-- Lucian Kallee</h3>
-    <h1>Hello my name is Lucian and I'm a fullstack developer.</h1>
+    <h3 class="name">-- Sustainable</h3>
+    <h1>Organic Composer</h1>
   </div>
   <div class="space">
-    <img class="home-img" src="space.svg" alt="dawn" />
+    <img class="home-img" src="nature.svg" alt="dawn" />
   </div>
 </div>
 
@@ -23,7 +23,7 @@
   }
 
   .name {
-    color: #00adb5;
+    color: #00b56a;
   }
 
   .space {
